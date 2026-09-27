@@ -20,7 +20,7 @@ I enjoy learning how things work, solving problems, experimenting with new ideas
 - 🔬 Curious about new technologies and engineering solutions
 - 💡 I enjoy experimenting, solving problems, and learning through projects
 - 📂 My projects and experiments can be found in my repositories
-
+- ## 🌐 Portfolio:[saad20041008.github.io](https://saad20041008.github.io/)
 ---
 
 ## 🛠️ Languages & Tools
@@ -72,30 +72,6 @@ As I continue learning, I will be adding more projects to my GitHub repositories
 <p align="left">
 
 <img src="https://img.shields.io/badge/More%20Projects-Coming%20Soon-181717?style=for-the-badge&logo=github&logoColor=white" alt="More Projects Coming Soon"/>
-
-</p>
-
----
-
-## 🌐 Portfolio
-
-<p align="left">
-
-<a href="https://saad20041008.github.io/" target="_blank">
-<img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-181717?style=for-the-badge" alt="Portfolio"/>
-</a>
-
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=saad20041008&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad20041008&layout=compact&theme=github_dark&hide_border=true" height="180" alt="Top Languages"/>
 
 </p>
 
