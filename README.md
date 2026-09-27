@@ -1,16 +1,243 @@
-## Hi there 👋
+# 👋 Hi there! I'm SAAD BIN KAMAL
 
-<!--
-**saad20041008/saad20041008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚙️ Mechatronics Engineering Student @ Asia Pacific University, Malaysia
 
-Here are some ideas to get you started:
+I am a **Mechatronics Engineering student** interested in programming, engineering, robotics, automation, and emerging technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning how things work, solving problems, experimenting with new ideas, and building projects that combine **hardware and software**.
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 Studying **Mechatronics Engineering** at **Asia Pacific University, Malaysia**
+- 💻 Currently learning and working with **C, C++, Python & HTML**
+- ⚙️ Interested in **Mechatronics Engineering**
+- 🤖 Interested in **Robotics & Automation**
+- 🔧 Exploring the connection between **Hardware & Software**
+- 🧠 Always learning and improving my technical skills
+- 🚀 Interested in building practical and creative projects
+- 🔬 Curious about new technologies and engineering solutions
+- 💡 I enjoy experimenting, solving problems, and learning through projects
+- 📂 My projects and experiments can be found in my repositories
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+
+<a href="https://www.c-language.org/" target="_blank">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+</a>
+
+<a href="https://isocpp.org/" target="_blank">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+</a>
+
+</p>
+
+---
+
+## ⚙️ Areas of Interest
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Mechatronics-Engineering-0A66C2?style=for-the-badge" alt="Mechatronics Engineering"/>
+
+<img src="https://img.shields.io/badge/Robotics-Automation-6A1B9A?style=for-the-badge" alt="Robotics & Automation"/>
+
+<img src="https://img.shields.io/badge/Engineering-Technology-455A64?style=for-the-badge" alt="Engineering & Technology"/>
+
+<img src="https://img.shields.io/badge/Hardware-Software-00897B?style=for-the-badge" alt="Hardware & Software"/>
+
+</p>
+
+---
+
+## 🚀 Projects
+
+I'm currently developing my skills through programming exercises, engineering projects, experiments, and personal projects.
+
+As I continue learning, I will be adding more projects to my GitHub repositories.
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/More%20Projects-Coming%20Soon-181717?style=for-the-badge&logo=github&logoColor=white" alt="More Projects Coming Soon"/>
+
+</p>
+
+---
+
+## 🌐 Portfolio
+
+<p align="left">
+
+<a href="https://saad20041008.github.io/" target="_blank">
+<img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-181717?style=for-the-badge" alt="Portfolio"/>
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=saad20041008&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad20041008&layout=compact&theme=github_dark&hide_border=true" height="180" alt="Top Languages"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=saad20041008&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+
+</p>
+
+---
+
+## 🎯 Current Focus
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Programming-0A0A0A?style=for-the-badge" alt="Programming"/>
+
+<img src="https://img.shields.io/badge/Mechatronics-0A66C2?style=for-the-badge" alt="Mechatronics"/>
+
+<img src="https://img.shields.io/badge/Robotics-6A1B9A?style=for-the-badge" alt="Robotics"/>
+
+<img src="https://img.shields.io/badge/Engineering-455A64?style=for-the-badge" alt="Engineering"/>
+
+<img src="https://img.shields.io/badge/Problem%20Solving-00897B?style=for-the-badge" alt="Problem Solving"/>
+
+<img src="https://img.shields.io/badge/Building%20Projects-E65100?style=for-the-badge" alt="Building Projects"/>
+
+</p>
+
+---
+
+## 📫 Reach Me
+
+<p align="left">
+
+<a href="mailto:extraone20041008@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://www.instagram.com/saad20041008/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="https://github.com/saad20041008" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://discordapp.com/users/1058430426898776095" target="_blank">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+
+</p>
+
+---
+
+## 🔗 Find Me Online
+
+<p align="left">
+
+<a href="https://github.com/saad20041008" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-@saad20041008-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.instagram.com/saad20041008/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-@saad20041008-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="https://discordapp.com/users/1058430426898776095" target="_blank">
+<img src="https://img.shields.io/badge/Discord-My%20Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+
+<a href="https://saad20041008.github.io/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+</p>
+
+---
+
+## 🧩 My Approach
+
+<p align="center">
+
+### Learn → Build → Test → Fail → Understand → Improve
+
+</p>
+
+I believe the best way to learn engineering is by **building things, testing ideas, understanding problems, and improving the next version**.
+
+---
+
+## ⚡ A Little More About Me
+
+```text
+╔══════════════════════════════════════════╗
+║                                          ║
+║          SAAD BIN KAMAL                  ║
+║                                          ║
+║     Mechatronics Engineering             ║
+║     Asia Pacific University              ║
+║                                          ║
+║     C • C++ • Python • HTML              ║
+║                                          ║
+║     Robotics • Automation                ║
+║     Engineering • Technology             ║
+║                                          ║
+║       Learn. Build. Improve. 🚀          ║
+║                                          ║
+╚══════════════════════════════════════════╝
+
+📈 My Journey
+                    Engineering
+                         │
+                         ▼
+                Mechatronics
+                         │
+          ┌──────────────┼──────────────┐
+          ▼              ▼              ▼
+     Programming      Hardware       Software
+          │              │              │
+      ┌───┼───┐          │              │
+      ▼   ▼   ▼          ▼              ▼
+      C  C++ Python   Electronics      HTML
+          │              │
+          └───────┬──────┘
+                  ▼
+          Robotics & Automation
+                  │
+                  ▼
+           Future Projects 🚀
+
+💭 Philosophy
+
+Don't just learn how things work. Build something, test it, understand it, and make it better.
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=saad20041008&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/> </p> <p align="center">
+⚙️ Learning • Building • Improving 🚀
+
+Thanks for visiting my profile!
+
+</p> ```
