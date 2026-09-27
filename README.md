@@ -20,7 +20,7 @@ I enjoy learning how things work, solving problems, experimenting with new ideas
 - 🔬 Curious about new technologies and engineering solutions
 - 💡 I enjoy experimenting, solving problems, and learning through projects
 - 📂 My projects and experiments can be found in my repositories
-- ## 🌐 Portfolio:[saad20041008.github.io](https://saad20041008.github.io/)
+- 🌐 Portfolio:[saad20041008.github.io](https://saad20041008.github.io/)
 ---
 
 ## 🛠️ Languages & Tools
