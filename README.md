@@ -101,36 +101,6 @@ As I continue learning, I will be adding more projects to my GitHub repositories
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=saad20041008&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
-
-</p>
-
----
-
-## 🎯 Current Focus
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Programming-0A0A0A?style=for-the-badge" alt="Programming"/>
-
-<img src="https://img.shields.io/badge/Mechatronics-0A66C2?style=for-the-badge" alt="Mechatronics"/>
-
-<img src="https://img.shields.io/badge/Robotics-6A1B9A?style=for-the-badge" alt="Robotics"/>
-
-<img src="https://img.shields.io/badge/Engineering-455A64?style=for-the-badge" alt="Engineering"/>
-
-<img src="https://img.shields.io/badge/Problem%20Solving-00897B?style=for-the-badge" alt="Problem Solving"/>
-
-<img src="https://img.shields.io/badge/Building%20Projects-E65100?style=for-the-badge" alt="Building Projects"/>
-
-</p>
-
----
-
 ## 📫 Reach Me
 
 <p align="left">
@@ -210,7 +180,7 @@ I believe the best way to learn engineering is by **building things, testing ide
 ║                                          ║
 ╚══════════════════════════════════════════╝
 
-📈 My Journey
+## 📈 My Journey
                     Engineering
                          │
                          ▼
@@ -231,13 +201,22 @@ I believe the best way to learn engineering is by **building things, testing ide
                   ▼
            Future Projects 🚀
 
-💭 Philosophy
+## 💭 Philosophy
 
-Don't just learn how things work. Build something, test it, understand it, and make it better.
+> **Don't just learn how things work. Build something, test it, understand it, and make it better.**
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=saad20041008&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/> </p> <p align="center">
-⚙️ Learning • Building • Improving 🚀
+---
 
-Thanks for visiting my profile!
+<p align="center">
 
-</p> ```
+<img src="https://komarev.com/ghpvc/?username=saad20041008&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+
+</p>
+
+<p align="center">
+
+### ⚙️ Learning • Building • Improving 🚀
+
+**Thanks for visiting my profile!**
+
+</p>
