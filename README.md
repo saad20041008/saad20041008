@@ -31,10 +31,6 @@ I enjoy learning how things work, solving problems, experimenting with new ideas
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 </a>
 
-<a href="https://isocpp.org/" target="_blank">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-</a>
-
 <a href="https://www.python.org/" target="_blank">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </a>
@@ -137,25 +133,6 @@ I believe the best way to learn engineering is by **building things, testing ide
 
 ---
 
-## ⚡ A Little More About Me
-
-```text
-╔══════════════════════════════════════════╗
-║                                          ║
-║          SAAD BIN KAMAL                  ║
-║                                          ║
-║     Mechatronics Engineering             ║
-║     Asia Pacific University              ║
-║                                          ║
-║     C • C++ • Python • HTML              ║
-║                                          ║
-║     Robotics • Automation                ║
-║     Engineering • Technology             ║
-║                                          ║
-║       Learn. Build. Improve. 🚀          ║
-║                                          ║
-╚══════════════════════════════════════════╝
-
 ## 📈 My Journey
                     Engineering
                          │
@@ -181,13 +158,7 @@ I believe the best way to learn engineering is by **building things, testing ide
 
 > **Don't just learn how things work. Build something, test it, understand it, and make it better.**
 
----
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=saad20041008&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-
-</p>
 
 <p align="center">
 
