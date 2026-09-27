@@ -97,30 +97,6 @@ As I continue learning, I will be adding more projects to my GitHub repositories
 
 ---
 
-## 🔗 Find Me Online
-
-<p align="left">
-
-<a href="https://github.com/saad20041008" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-@saad20041008-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://www.instagram.com/saad20041008/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-@saad20041008-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-<a href="https://discordapp.com/users/1058430426898776095" target="_blank">
-<img src="https://img.shields.io/badge/Discord-My%20Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-
-<a href="https://saad20041008.github.io/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-
-</p>
-
----
-
 ## 🧩 My Approach
 
 <p align="center">
