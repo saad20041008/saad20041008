@@ -11,7 +11,7 @@ I enjoy learning how things work, solving problems, experimenting with new ideas
 ## 🧑‍💻 About Me
 
 - 🎓 Studying **Mechatronics Engineering** at **Asia Pacific University, Malaysia**
-- 💻 Currently learning and working with **C, C++, Python & HTML**
+- 💻 Currently learning and working with **C, Python & HTML**
 - ⚙️ Interested in **Mechatronics Engineering**
 - 🤖 Interested in **Robotics & Automation**
 - 🔧 Exploring the connection between **Hardware & Software**
